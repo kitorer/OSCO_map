@@ -11,6 +11,6 @@
 while true
 do
 curl -O "https://www.ocso.com/portals/0/CFS_FEED/activecalls.xml" -o C:\Users\vikkh\Documents\github\OSCO_map
-sleep 1m
+sleep 7m
 echo "downloaded"
 done
