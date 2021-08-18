@@ -10,13 +10,11 @@
 * [x] Download xml every 7 minutes
 * [ ] Parse Data
 * [ ] Translate addresses into coordinate set
+* [ ] record data using sqlite
 * [ ] Spit it out as json
 * [ ] Update every 7 minutes with events to be removed from map after 2 hours
 * [ ] DEPLOY!
-* Refactor React app
-  * seperate components
-  * seperate file for API requests
-  * seperate file for Location requests
+
 
 ## Stretch
 * [ ] ask for location data to center map on user
