@@ -21,3 +21,4 @@
 * [ ] filter based on time
 * [ ] filter based on call
 * [ ] options for types of map
+* [ ] add OPD and Fire Rescue
