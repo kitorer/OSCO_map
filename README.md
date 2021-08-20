@@ -12,6 +12,7 @@
 * [ ] Translate addresses into coordinate set
 * [x] record data using sqlite
 * [ ] Spit it out as json
+* [ ] put calls on map as markers
 * [ ] Update every 7 minutes with events to be removed from map after 2 hours
 * [ ] DEPLOY!
 
@@ -21,4 +22,5 @@
 * [ ] filter based on time
 * [ ] filter based on call
 * [ ] options for types of map
+* [ ] make seperate page with call list from db
 * [ ] add OPD and Fire Rescue
