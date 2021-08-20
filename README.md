@@ -8,7 +8,7 @@
 * [x] create-react-app
 * [x] Install react-leaflet: https://github.com/PaulLeCam/react-leaflet
 * [x] Download xml every 7 minutes
-* [ ] Parse Data
+* [x] Parse Data
 * [ ] Translate addresses into coordinate set
 * [ ] record data using sqlite
 * [ ] Spit it out as json
