@@ -10,7 +10,7 @@
 * [x] Download xml every 7 minutes
 * [x] Parse Data
 * [ ] Translate addresses into coordinate set
-* [ ] record data using sqlite
+* [x] record data using sqlite
 * [ ] Spit it out as json
 * [ ] Update every 7 minutes with events to be removed from map after 2 hours
 * [ ] DEPLOY!
