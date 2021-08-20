@@ -9,8 +9,8 @@
 * [x] Install react-leaflet: https://github.com/PaulLeCam/react-leaflet
 * [x] Download xml every 7 minutes
 * [x] Parse Data
-* [ ] Translate addresses into coordinate set
 * [x] record data using sqlite
+* [ ] Translate addresses into coordinate set
 * [ ] Spit it out as json
 * [ ] put calls on map as markers
 * [ ] Update every 7 minutes with events to be removed from map after 2 hours
